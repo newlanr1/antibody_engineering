@@ -1,2 +1,12 @@
 venv/
 data/
+# Jupyter & Python Cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Data files & outputs (Keep code versioned, but keep data local)
+*.csv
+*.xlsx
+*.png
+*.pptx
