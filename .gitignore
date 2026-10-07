@@ -1,4 +1,7 @@
 venv/
+venv-igfold311/
+venv-sapiens38/
+venv-sapiens38-real/
 data/
 # Jupyter & Python Cache
 .ipynb_checkpoints/
@@ -10,3 +13,6 @@ __pycache__/
 *.xlsx
 *.png
 *.pptx
+*.csv.gz
+.ipynb_checkpoints/
+venv/
